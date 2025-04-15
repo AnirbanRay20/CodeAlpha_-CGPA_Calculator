@@ -1,4 +1,4 @@
-# CodeAlpha_-CGPA_Calculator
+# Programming_Cpp_CGPA_Calculator
 The user’s input is used to compute the CGPA, which
 includes information like the number of courses taken and
 the grades earned in each one. The program also shows each
